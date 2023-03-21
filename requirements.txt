@@ -9,8 +9,5 @@ spacy
 catboost
 xgboost
 dill
-keras
 streamlit
-tensorflow
-
 -e .
