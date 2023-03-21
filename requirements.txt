@@ -1,0 +1,15 @@
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+nltk
+WordCloud
+spacy
+catboost
+xgboost
+dill
+keras
+streamlit
+tensorflow
+-e .
