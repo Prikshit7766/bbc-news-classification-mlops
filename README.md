@@ -1,6 +1,6 @@
 <h1 align="center">BBC NEWS CLASSIFICATION</h1>
 
-![BBC - NEWS - CLASSIFICATION -MLOPS](https://socialify.git.ci/Ryzxxl/bbc-news-classification-mlops/image?description=1&descriptionEditable=&font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Dark)
+![BBC - NEWS - CLASSIFICATION -MLOPS](https://socialify.git.ci/Prikshit7766/bbc-news-classification-mlops/image?font=Inter&language=1&name=1&pattern=Floating%20Cogs&theme=Auto)
 
 ## Table of contents
 
