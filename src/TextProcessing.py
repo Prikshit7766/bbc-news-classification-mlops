@@ -7,11 +7,11 @@ from src.exception import CustomException
 from nltk.tokenize import word_tokenize
 import sys
 import string
-nltk.download('stopwords')
-nltk.download('punkt')
-nltk.download('averaged_perceptron_tagger')
-nltk.download('wordnet')
-nltk.download('omw-1.4')
+# nltk.download('stopwords')
+# nltk.download('punkt')
+# nltk.download('averaged_perceptron_tagger')
+# nltk.download('wordnet')
+# nltk.download('omw-1.4')
 
 def preprocessDataset(train_text):
     try:

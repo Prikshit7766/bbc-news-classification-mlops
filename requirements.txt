@@ -6,8 +6,7 @@ scikit-learn
 nltk
 WordCloud
 spacy
-catboost
-xgboost
 dill
 streamlit
+flask
 -e .
